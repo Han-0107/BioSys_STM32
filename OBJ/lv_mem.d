@@ -1,0 +1,10 @@
+..\obj\lv_mem.o: ..\GUI\lvgl\src\lv_misc\lv_mem.c
+..\obj\lv_mem.o: ..\GUI\lvgl\src\lv_misc\lv_mem.h
+..\obj\lv_mem.o: ..\GUI\lvgl\src\lv_misc\../../../lv_conf.h
+..\obj\lv_mem.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\lv_mem.o: ..\GUI\lvgl\src\lv_misc\../../../lvgl/src/lv_conf_checker.h
+..\obj\lv_mem.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\lv_mem.o: ..\GUI\lvgl\src\lv_misc\lv_log.h
+..\obj\lv_mem.o: ..\GUI\lvgl\src\lv_misc\../../../lv_conf.h
+..\obj\lv_mem.o: ..\GUI\lvgl\src\lv_misc\lv_math.h
+..\obj\lv_mem.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
